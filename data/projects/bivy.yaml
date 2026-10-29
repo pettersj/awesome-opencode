@@ -1,0 +1,9 @@
+name: Bivy
+repo: https://github.com/bivysh/bivy
+tagline: Run OpenCode on your own machine or a cloud computer and steer it from your phone or browser
+description: Runs OpenCode (over ACP), Claude Code, Codex, Pi and other agent CLIs on your own computer, server or a cloud computer. The same session opens in a phone web app, browser or terminal, with push notifications, tool approvals and live previews of the app being built. OpenCode is release-tested on every Bivy release. MIT, self-hostable.
+homepage: https://bivy.sh
+tags:
+  - mobile
+  - remote
+  - self-hosted
